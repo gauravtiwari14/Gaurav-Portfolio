@@ -11,18 +11,18 @@ const Contact = () => {
       </div>
       <ul className={styles.links}>
         <li className={styles.link}>
-          <img src="emailIcon.png" alt="Email icon" />
+          <img src="./Images/emailIcon.png" alt="Email icon" />
           <p>gt16633@gmail.com</p>
         </li>
         <li className={styles.link}>
           <img
-            src="linkedinIcon.png"
+            src="./Images/linkedinIcon.png"
             alt="LinkedIn icon"
           />
         <p>linkedin.com/in/gaurav-tiwari-99820424a/</p>
         </li>
         <li className={styles.link}>
-          <img src="githubIcon.png" alt="Github icon" />
+          <img src="./Images/githubIcon.png" alt="Github icon" />
           <p>github.com/gauravtiwari14</p>
         </li>
       </ul>
