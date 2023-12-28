@@ -1,0 +1,25 @@
+[
+    {
+      "title": "Mega Blog Project",
+      "imageSrc": "Blog.png",
+      "description": "This Project is a blog website which enables users to add post and some description about the post.",
+      "skills": ["React","Appwrite","Tailwind CSS"],
+      "source": "https://github.com/gauravtiwari14/Mega-Project-Appwrite"
+    },
+    {
+      "title": "Google Keep Clone",
+      "imageSrc": "GoogleKeepClone.png",
+      "description": "This is a Project made to keep notes of daily tasks by the users and to edit and delete it very easily.",
+      "skills": ["HTML", "CSS", "JAVASCRIPT"],
+      "source": "https://github.com/gauravtiwari14/Google_Keep_Clone"
+    },
+    {
+      "title": "Simple Quiz Website",
+      "imageSrc": "Quiz.png",
+      "description": "This is a Simple Quiz Project made to Test the General knowledge of users and give score accordingly.",
+      "skills": ["HTML", "CSS", "JAVASCRIPT"],
+      "source": "https://github.com/gauravtiwari14/QuizWebsite"
+    }
+  ]
+
+ 
